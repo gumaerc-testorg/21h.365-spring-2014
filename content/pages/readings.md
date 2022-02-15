@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8a177277-6be2-9d4d-6361-5c917809af4b
 ---
@@ -121,14 +124,14 @@ Semerdjian, Elyse. "[Naked Anxiety: Bathhouses, Nudity, and The Dhimmī Woman In
 10
 {{< tdclose >}}
 {{< tdopen >}}
-19th Century Disruption
+19{{< sup "th" >}} Century Disruption
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 \[Cleveland\] pp. 74–89.
 
-Erdem, Hakan. "Do Not Think of the Greeks as Agricultural Labourers" Ottoman Responses to the Greek War of Independence." In _Citizenship and the Nation State in Greece and Turkey._ 1st ed. Editied by Faruk Birtek and Thalia Dragonas_._ Routledge, 2009. ISBN: 9780415543545. \[Preview with [Google Books](http://books.google.com/books?id=dkWNheuzTz0C&pg=PA67=onepage)\]
+Erdem, Hakan. "Do Not Think of the Greeks as Agricultural Labourers" Ottoman Responses to the Greek War of Independence." In _Citizenship and the Nation State in Greece and Turkey._ 1{{< sup "st" >}} ed. Editied by Faruk Birtek and Thalia Dragonas_._ Routledge, 2009. ISBN: 9780415543545. \[Preview with [Google Books](http://books.google.com/books?id=dkWNheuzTz0C&pg=PA67=onepage)\]
 
 "The Gülhane Decree" of 1839 (primary source reading)
 
@@ -288,7 +291,7 @@ Ethnic Pluralism in Israel II (Present)
 
 **First Session**
 
-Shoat, Ella. "Sephardim in Israel: Zionism from the Standpoint of Its Jewish Victims." In _Dangerous Liaisons: Gender, Nation, and Postcolonial Perspectives_. 1st ed. University of Minnesota Press, 1997, pp. 39–66. ISBN: 9780816626496. \[Preview with [Google Books](http://books.google.com/books?id=0R3P9yRtpeEC&pg=PA39=onepage)\]
+Shoat, Ella. "Sephardim in Israel: Zionism from the Standpoint of Its Jewish Victims." In _Dangerous Liaisons: Gender, Nation, and Postcolonial Perspectives_. 1{{< sup "st" >}} ed. University of Minnesota Press, 1997, pp. 39–66. ISBN: 9780816626496. \[Preview with [Google Books](http://books.google.com/books?id=0R3P9yRtpeEC&pg=PA39=onepage)\]
 
 Gabriella, Djerrahian. "Diasporas Collide: Competing Holocausts, Imposed Whiteness, and the Seemingly Jewish Non–Jew Researcher In Israel." In _Ethnographic Encounters in Israel: Politics and Ethnics of Fieldwork_. Indiana University Press, 2013, pp. 112–32. ISBN: 9780253008619.
 

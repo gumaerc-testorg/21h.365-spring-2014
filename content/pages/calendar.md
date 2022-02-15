@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a64a5bda-3709-65a0-b1c4-742da508a441
 ---
@@ -99,7 +101,7 @@ Early Modern Gender and Religion
 10
 {{< tdclose >}}
 {{< tdopen >}}
-19th Century Disruption
+19{{< sup "th" >}} Century Disruption
 {{< tdclose >}}
 {{< tdopen >}}
  

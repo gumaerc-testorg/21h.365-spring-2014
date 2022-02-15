@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5ee5c32e-a90c-a073-f62f-a8d07b66f052
 ---
@@ -17,7 +19,7 @@ There are no prerequisites for this course. 
 Description
 -----------
 
-How did societies of the Middle East deal with ethnic and religious diversity? What is the role of Islam in the governing principles related to inter-communal contact? How did the Ottomans Ottoman Empire (1299–1922), who had ruled over most of what we now call the "Middle East" for about half a millennium, regulate its vast populations' difference without imposing on a single "nationhood"? What happened when this formula got challenged in the 19th century when the ideas of nation-state emerged and eventually, along with Western economic and military advance, brought an end to the Ottoman dynasty's rule? This seminar will explore the answers to these questions. We will start with classical Islam, move to early modern Ottomans and then to the modern era because the basic assumption of the course is that history matters and to understand the modern we need to look at its roots. We will discuss the meanings and limits of concepts such as "cosmopolitanism," "tolerance," "coexistence," and "pluralism," and will not shy away making comparisons between the Middle East and the racial and ethnic relations here and now.
+How did societies of the Middle East deal with ethnic and religious diversity? What is the role of Islam in the governing principles related to inter-communal contact? How did the Ottomans Ottoman Empire (1299–1922), who had ruled over most of what we now call the "Middle East" for about half a millennium, regulate its vast populations' difference without imposing on a single "nationhood"? What happened when this formula got challenged in the 19{{< sup "th" >}} century when the ideas of nation-state emerged and eventually, along with Western economic and military advance, brought an end to the Ottoman dynasty's rule? This seminar will explore the answers to these questions. We will start with classical Islam, move to early modern Ottomans and then to the modern era because the basic assumption of the course is that history matters and to understand the modern we need to look at its roots. We will discuss the meanings and limits of concepts such as "cosmopolitanism," "tolerance," "coexistence," and "pluralism," and will not shy away making comparisons between the Middle East and the racial and ethnic relations here and now.
 
 Policy on Laptops and Their Varieties
 -------------------------------------
