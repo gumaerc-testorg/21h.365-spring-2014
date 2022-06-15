@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: A description of assignments, containing due dates and two online quizes.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: d96ddb71-4989-b429-abfd-664aeb70962d
 ---
