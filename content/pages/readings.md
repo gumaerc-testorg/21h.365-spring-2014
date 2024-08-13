@@ -138,7 +138,7 @@ The Question of Cosmopolitanism
 
 Mills, Amy. "[The Place of Locality for Identity in the Nation: Minority Narratives of Cosmopolitan Istanbul](http://dx.doi.org/10.1017/S0020743808080987)." *International Journal of Middle East Studies* 40, no. 3 (2008): 383–401.
 
-Erdentug, Aygen. "[The 'Christmas Tree' and 'Santa Claus' on New Year's Eve in Turkey](http://connection.ebscohost.com/c/articles/45672582/christmas-tree-santa-claus-new-years-eve-turkey)." *Anthropology of the Middle East* 4, no. 2 (2009): 14–33.
+Erdentug, Aygen. "[The 'Christmas Tree' and 'Santa Claus' on New Year's Eve in Turkey](https://www.berghahnjournals.com/view/journals/ame/4/2/ame040203.xml)." *Anthropology of the Middle East* 4, no. 2 (2009): 14–33.
 
 Hanley, Will. "[Grieving Cosmopolitanism in Middle East Studies](http://dx.doi.org/10.1111/j.1478-0542.2008.00545.x)." *History Compass* 6, no. 5 (2008): 1346–67.
 
