@@ -13,9 +13,9 @@ Map Activities
 
 For sessions 1 and 3, students are asked to complete the following map activities:
 
-Session 1 [Rethinking Schools: Map Game](http://www.rethinkingschools.org/just_fun/games/mapgame.html)
+Session 1 {{% resource_link "54b5daa6-254e-41dd-ab56-fec553d20fcf" "Rethinking Schools: Map Game" %}}
 
-Session 3 [McGraw-Hill: Interactive Map Quiz](http://highered.mheducation.com/sites/0073406937/student_view0/chapter28/interactive_map_quiz.html)
+Session 3 {{% resource_link "bb8c289c-85fa-40e9-9121-e75036cec100" "McGraw-Hill: Interactive Map Quiz" %}}
 
 Discussion Questions
 --------------------
